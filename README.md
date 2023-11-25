@@ -19,15 +19,15 @@ end
  
   -  provides a complete development environment
 
-         - testing
-         - documentation
-         - logging
-         - distrubuted computing (erlang nodes)
+        - testing
+        - documentation
+        - logging
+        - distrubuted computing (erlang nodes)
 
   - functional pradigm with heavy emphasis on patterm matching
 
-         - no concept of assignment
-         - " = " sign is the match operator
+        - no concept of assignment
+        - " = " sign is the match operator
 
   - return types are always implied
 
