@@ -18,16 +18,16 @@ end
 ### elixr  
  
   -  provides a complete development environment
-
-        - testing
-        - documentation
-        - logging
-        - distrubuted computing (erlang nodes)
-
+          
+      - testing
+      - documentation
+      - logging
+      - distrubuted computing (erlang nodes)
+  
   - functional pradigm with heavy emphasis on patterm matching
-
-        - no concept of assignment
-        - " = " sign is the match operator
+            
+      - no concept of assignment
+      - " = " sign is the match operator
 
   - return types are always implied
 
@@ -42,6 +42,8 @@ end
   - std lib is filled with incredibly useful elixir wrapped erlang functions. example: Enum.shuffle()
    
   - truthy and falsy non existent
+
+##
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/elixicon>.
