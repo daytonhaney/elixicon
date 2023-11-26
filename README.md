@@ -1,3 +1,11 @@
+## What is an identicon? 
+An Identicon is a visual representation of text as a hashed value, that serves to identify a user of a computer system as a form of avatar while protecting the user's privacy. Some websites ues identicons as the default profile picture when the user does not uoload their own. 
+
+
+### examples 
+![examples](https://github.com/daytonhaney/elixicon/assets/37848207/4cbf9bbd-6e83-43f9-97ce-fbfee870a18e)
+
+
 ## install elixir and run:
 
 ```elixir
