@@ -21,7 +21,8 @@ defmodule Elixicons.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:ex_doc, "~> 0.27"}
+      {:ex_doc, "~> 0.27"},
+      {:egd, github: "erlang/egd"}
 
     ]
   end
