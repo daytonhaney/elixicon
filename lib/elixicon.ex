@@ -16,7 +16,7 @@ defmodule Elixicon do
     File.write("#{input}", image)
   end
 
-  def draw_elixicon(%Elixicon.Image{color: color, pixel_map: pixel_map}) do 
+ def draw_elixicon(%Elixicon.Image{color: color, pixel_map: pixel_map}) do 
     
     image = :egd.create(250, 250)
     fill = :egd.color(color)
